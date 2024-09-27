@@ -1,2 +1,2 @@
 # snake_game
-Classic Snake game
+Classic Snake game using turtle module OOP
